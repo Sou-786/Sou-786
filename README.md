@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Soumit</h1>
 <h3 align="center">Data Analyst, Data Scientist</h3>
 
-<p align="left"> <img src="https://www.gettyimages.in/detail/photo/abstract-network-background-global-communications-royalty-free-image/1096964948" /> </p>
+
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/g9582DNuQppxC/200w.webp">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
