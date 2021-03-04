@@ -2,7 +2,7 @@
 <h3 align="center">Data Analyst, Data Scientist</h3>
 
 
-<img align="right" alt="Coding" width="400" src="">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/u4CY9BW4umAfu/giphy.gif">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
