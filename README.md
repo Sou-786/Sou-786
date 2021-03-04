@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soumit</h1>
-<h3 align="center">MBA Graduate
+<h3 align="center">MBA Graduated
   
   Aspire Data Analyst, Data Scientist</h3>
 
