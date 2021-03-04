@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Soumit</h1>
-<h3 align="center">Data Analyst, Data Scientist</h3>
+<h3 align="center">MBA Graduate
+  
+  Aspire Data Analyst, Data Scientist</h3>
 
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/u4CY9BW4umAfu/giphy.gif">
